@@ -10,7 +10,7 @@
 
 ## Run Locally
 
-- Run this command `git clone https://github.com/developer-junaid/DeveloperFolio.git`
+- Run this command `git clone https://github.com/developer-junaid/Next-Wordpress-Headless-Blog.git`
 - You are now in the dev environment and you can play around
 
 
